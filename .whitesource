@@ -3,8 +3,9 @@
     "configMode": "AUTO",
     "configExternalURL": "",
     "enableLicenseViolations": true,
-    "projectToken": "abdc58bf22634454808c9c2692bc45506d83d61bc1a14e01b46d2c48dbab6621",
-    "baseBranches": []
+    "projectToken": "",
+    "baseBranches": ["master]
+    "exploitability": true
   },
   "scanSettingsSAST": {
     "enableScan": false,
